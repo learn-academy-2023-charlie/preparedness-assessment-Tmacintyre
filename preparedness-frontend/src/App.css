@@ -1,0 +1,43 @@
+body {
+    background-image: url("/Users/learnacademy/Desktop/preparedness-assessment-Tmacintyre/preparedness-frontend/src/assets/background-image.jpeg");
+    background-size: cover;
+  }
+
+.header {
+    color: white;
+    font-size: 50px;
+  }
+
+.entire-content {
+    text-align: center;
+  }
+
+.input {
+    margin: 20px auto;
+    width: 50%;
+  }
+
+label {
+    display: block;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+  }
+
+input {
+    font-size: 18px;
+    width: 100%;
+    padding: 6px 12px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .button-container button {
+    margin-right: 20px;
+  }
